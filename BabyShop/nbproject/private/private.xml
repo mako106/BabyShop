@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/chien/OneDrive/Documents/NetBeansProjects/BabyShop/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/chien/OneDrive/Documents/NetBeansProjects/BabyShop/web/example/index.jsp</file>
+            <file>file:/C:/Users/chien/OneDrive/Documents/NetBeansProjects/BabyShop/src/java/baby/shop/da/DBConnection.java</file>
+            <file>file:/C:/Users/chien/OneDrive/Documents/NetBeansProjects/BabyShop/src/java/baby/shop/model/ProductList.java</file>
+            <file>file:/C:/Users/chien/OneDrive/Documents/NetBeansProjects/BabyShop/src/java/baby/shop/model/ViewCart.java</file>
+            <file>file:/C:/Users/chien/OneDrive/Documents/NetBeansProjects/BabyShop/src/java/baby/shop/model/AddProductCart.java</file>
+            <file>file:/C:/Users/chien/OneDrive/Documents/NetBeansProjects/BabyShop/web/example/result.jsp</file>
+            <file>file:/C:/Users/chien/OneDrive/Documents/NetBeansProjects/BabyShop/src/java/baby/shop/enity/Product.java</file>
+            <file>file:/C:/Users/chien/OneDrive/Documents/NetBeansProjects/BabyShop/src/java/baby/shop/da/ProductManager.java</file>
+            <file>file:/C:/Users/chien/OneDrive/Documents/NetBeansProjects/BabyShop/web/example/viewCart.jsp</file>
+            <file>file:/C:/Users/chien/OneDrive/Documents/NetBeansProjects/BabyShop/src/java/baby/shop/biz/Cart.java</file>
+            <file>file:/C:/Users/chien/OneDrive/Documents/NetBeansProjects/BabyShop/src/java/struts.xml</file>
+        </group>
+    </open-files>
+</project-private>
